@@ -12,3 +12,5 @@ The Automated Road Damage Detection System is a software solution designed to de
 
 
 [CLICK HERE TO DOWNLOAD DATASET USED](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_India.zip)
+
+MINOR 2 PROJECT - BATCH 127
