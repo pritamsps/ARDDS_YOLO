@@ -9,3 +9,6 @@ The Automated Road Damage Detection System is a software solution designed to de
 * Generation of alerts and notifications to inform stakeholders about detected road damages.
 * Support for various communication channels, including mobile apps, emails, and SMS messages.
 + Scalability and adaptability to different road conditions, lighting conditions, and weather conditions.
+
+
+[LINK FOR DATASET USED:](https://bigdatacup.s3.ap-northeast-1.amazonaws.com/2022/CRDDC2022/RDD2022/Country_Specific_Data_CRDDC2022/RDD2022_India.zip)
